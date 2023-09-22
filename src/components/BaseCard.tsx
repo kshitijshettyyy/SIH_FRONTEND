@@ -1,0 +1,1 @@
+//card for dispalying the projects on homepage

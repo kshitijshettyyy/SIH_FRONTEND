@@ -1,0 +1,1 @@
+//to view the info of a particular project
